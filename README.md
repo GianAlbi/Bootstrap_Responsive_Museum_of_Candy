@@ -20,3 +20,8 @@ Features:
     ✅ Lightweight (no backend).
 
 
+How to View
+
+Clone this repository
+
+Open index.html in any web browser
